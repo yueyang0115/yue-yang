@@ -5,4 +5,4 @@ I’m Yue Yang, a second-year ECE master student at Duke University.
 - :woman_technologist: I'm looking for a full-time software engineer position
 - :thumbsup: I am good at data structure & algorithm, Java & C++ OO design, system programming (concurrency, TCP socket), web development
 - :raising_hand_woman: How to reach me: [YueYang@LinkedIn](https://www.linkedin.com/in/yue-yang-b37482142/)
-- :partying_face: Fun fact: I :heart: taking pictures of :city_sunset: [see photos](https://www.linkedin.com/in/yue-yang-b37482142/) 
+- :partying_face: Fun fact: I :heart: taking pictures of :city_sunset: [see photos](https://yueyang0115.github.io/) 
