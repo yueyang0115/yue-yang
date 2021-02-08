@@ -2,7 +2,7 @@
 I’m Yue Yang, a second-year ECE master student at Duke University.  
 :trophy: Have a look at my personal website: [website](https://yueyang0115.github.io)
 - :mortar_board: I will graduate in May 2021
-- :woman_technologist: I'm looking for a full-time software engineer position
+- :woman_technologist: I'm an incoming SDE @Amazon
 - :thumbsup: I am good at data structure & algorithm, Java & C++ OO design, system programming (concurrency, TCP socket), web development
 - :raising_hand_woman: How to reach me: [YueYang@LinkedIn](https://www.linkedin.com/in/yue-yang-b37482142/)
 - :partying_face: Fun fact: I :heart: taking pictures of :city_sunset: [see photos](https://yueyang0115.github.io/) 
